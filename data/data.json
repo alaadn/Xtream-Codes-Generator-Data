@@ -1,26 +1,28 @@
-[
-    {
-        "server": "serverrrr",
-        "port": 200 ,
-        "username": "brahim$i",
-        "password": "bra4himmm"
-    },
-    {
-        "server": "servexzrrr",
-        "port": 2001 ,
-        "username": "br43ahim$i",
-        "password": "br43ahim1mm"
-    },
-    {
-        "server": "serverzzrrr",
-        "port": 121 ,
-        "username": "brahi7m$i",
-        "password": "brahi1mmm"
-    },
-    {
-        "server": "fsdaf",
-        "port": 23100 ,
-        "username": "brah3im$i",
-        "password": "brah2immm"
-    }
-]
+{
+    "data":[
+        {
+            "server": "serverrrr",
+            "port": 200 ,
+            "username": "brahim$i",
+            "password": "bra4himmm"
+        },
+        {
+            "server": "servexzrrr",
+            "port": 2001 ,
+            "username": "br43ahim$i",
+            "password": "br43ahim1mm"
+        },
+        {
+            "server": "serverzzrrr",
+            "port": 121 ,
+            "username": "brahi7m$i",
+            "password": "brahi1mmm"
+        },
+        {
+            "server": "fsdaf",
+            "port": 23100 ,
+            "username": "brah3im$i",
+            "password": "brah2immm"
+        }
+    ]
+}
