@@ -1,18 +1,17 @@
 {
     "data": [
         {
-            "server": "http://xloxttv.info",
-            "port": 8080,
-            "username": "Cambiotodoplus",
-            "password": "w84fLZEtDQud"
+            "server": "http://iptv.journalsat.com",
+            "port": 25461,
+            "username": "662048360",
+            "password": "journalsat"
         },
-        {
-            "server": "http://flashprinttv.com",
-            "port": 2086,
-            "username": "u3YdHswKd3sD",
-            "password": "tp2qUHJmURmm"
+       {
+            "server": "http://iptv.journalsat.com",
+            "port": 25461,
+            "username": "395730706",
+            "password": "journalsat"
         },
-        {
             "server": "http://sniperstv.cc",
             "port": 8080,
             "username": "@-@SSobsfullhdex@FD-@",
@@ -27,13 +26,13 @@
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "506155505",
+            "username": "572006434",
             "password": "journalsat"
         },
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "625485919",
+            "username": "156352506",
             "password": "journalsat"
         }
     ]
