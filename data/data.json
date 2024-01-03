@@ -3,36 +3,43 @@
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "662048360",
+            "username": "949479470",
             "password": "journalsat"
         },
        {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "395730706",
+            "username": "148017412",
             "password": "journalsat"
         },
-            "server": "http://sniperstv.cc",
+        {
+            "server": "http://s1.pubnow.info",
             "port": 8080,
-            "username": "@-@SSobsfullhdex@FD-@",
-            "password": "FguBPXPBHEpH"
+            "username": "XVgubh27S8uA",
+            "password": "aDKguQBsTkb5"
         },
         {
-            "server": "http://mastertv.cloud",
+            "server": "http://sport.xphost19.xyz",
+            "port": 2082,
+            "username": "Jvyct679999967DDDF4477",
+            "password": "Xpluxxx3333ggghy5t57"
+        },
+        {
+            "server": "http://4kpro.co",
             "port": 80 ,
-            "username": "yasmin",
-            "password": "123456"
+            "username": "bader12345",
+            "password": "12345678"
+        },
+        {
+            "server": "http://ktpremium.com",
+            "port": 2095,
+            "username": "Karrthi1912",
+            "password": "Karrthi2023"
         },
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "572006434",
-            "password": "journalsat"
-        },
-        {
-            "server": "http://iptv.journalsat.com",
-            "port": 25461,
-            "username": "156352506",
+            "username": "222182207",
             "password": "journalsat"
         }
     ]
