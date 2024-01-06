@@ -3,13 +3,13 @@
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "312717879",
+            "username": "726152140",
             "password": "journalsat"
         },
        {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "895146618",
+            "username": "894275377",
             "password": "journalsat"
         },
         {
@@ -19,10 +19,10 @@
             "password": "5747379"
         },
         {
-            "server": "http://xpro.one-iptv.com",
-            "port": 25443,
-            "username": "ALAIN2",
-            "password": "Moisebal13"
+            "server": "138.255.102.3",
+            "port": 25461,
+            "username": "FOXSPORTS1HDsd",
+            "password": "RRZKamZw9a"
         },
         {
             "server": "http://da1981.xyz",
@@ -31,21 +31,21 @@
             "password": "hgkj89gggGHHGJUZghhhj"
         },
         {
-            "server": "http://pablotv.us",
-            "port": 80 ,
-            "username": "46648842836",
-            "password": "17735584622"
+            "server": "http://hd-max.org",
+            "port": 8080 ,
+            "username": "SFjLSkJ1qk",
+            "password": "zbocNLmJvW"
         },
         {
-            "server": "http://da1981.xyz",
-            "port": 80,
-            "username": "EzJSrAaZEtkD",
-            "password": "25fvtcZ3BhhF"
+            "server": "http://195.62.32.123",
+            "port": 2095,
+            "username": "mimi",
+            "password": "Ab123456"
         },
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "106865895",
+            "username": "360917929",
             "password": "journalsat"
         }
     ]
