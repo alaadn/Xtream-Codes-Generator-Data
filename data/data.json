@@ -3,26 +3,26 @@
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "817197859",
+            "username": "233311941",
             "password": "journalsat"
         },
        {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "742594370",
+            "username": "507768892",
             "password": "journalsat"
         },
         {
-            "server": "http://x.v-iptv.com",
-            "port": 25443,
-            "username": "V18JMxK8uVyaZ",
-            "password": "iCYs5sNLaz"
+            "server": "http://xtream-ie.com",
+            "port": 80,
+            "username": "mo3ad97R1",
+            "password": "mo3ad97R1"
         },
         {
-            "server": "http://boxdigital.xyz",
+            "server": "http://ugeen.live",
             "port": 8080,
-            "username": "portenolatino",
-            "password": "Irf5g4nXop"
+            "username": "Ugeen_Sx7k7X",
+            "password": "nrQjMh"
         },
         {
             "server": "http://iptvch.com",
@@ -45,7 +45,7 @@
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "529905237",
+            "username": "985337954",
             "password": "journalsat"
         }
     ]
