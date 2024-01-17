@@ -3,49 +3,49 @@
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "749028024",
+            "username": "443281424",
             "password": "journalsat"
         },
        {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "511465272",
+            "username": "396987888",
             "password": "journalsat"
         },
         {
-            "server": "http://toip.me",
-            "port": 88,
-            "username": "02026609132536",
-            "password": "CCIHLX8YDI8R5LV"
+            "server": "http://damasiptv.com",
+            "port": 80,
+            "username": "01729185524",
+            "password": "99999889966"
         },
         {
-            "server": "http://toip.me",
-            "port": 88,
-            "username": "02000657199456",
-            "password": "02000657199456"
+            "server": "http://damasiptv.com",
+            "port": 80,
+            "username": "01781782870",
+            "password": "01781782870"
         },
         {
-            "server": "http://toip.me",
-            "port": 88,
-            "username": "02001876167701",
-            "password": "7dc31e64b8b6821e"
-        },
-        {
-            "server": "http://premiumiptvmk.com",
+            "server": "http://bg.bleutv.net",
             "port": 8080,
-            "username": "newoutputofflinechecker",
-            "password": "GJQNq4AjPVFHyrZ5"
+            "username": "152042763376495",
+            "password": "152080756721385"
         },
         {
-            "server": "http://toip.me",
-            "port": 88,
-            "username": "02001876167701",
-            "password": "7dc31e64b8b6821e"
+            "server": "http://damasiptv.com",
+            "port": 80,
+            "username": "01781782870",
+            "password": "01781782870"
+        },
+        {
+            "server": "http://4k.dragonpro.net",
+            "port": 8080,
+            "username": "jfKBFSkLqL",
+            "password": "Hqukg4Fl6w"
         },
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "323740447",
+            "username": "789696956",
             "password": "journalsat"
         }
     ]
