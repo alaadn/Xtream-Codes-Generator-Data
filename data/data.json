@@ -3,49 +3,55 @@
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "739416468",
+            "username": "218136632",
             "password": "journalsat"
         },
        {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "942302722",
+            "username": "790365410",
             "password": "journalsat"
         },
         {
-            "server": "http://xtream-ie.com",
-            "port": 80,
-            "username": "mo3adb33T",
-            "password": "mo3adb33T"
+            "server": "http://145.239.25.170",
+            "port": 25461,
+            "username": "osama4",
+            "password": "76543"
         },
         {
-            "server": "http://148.251.133.153",
-            "port": 8888,
-            "username": "NovaTV",
-            "password": "nuru6E3b8LM"
+            "server": "http://f1.millenium-ott.com",
+            "port": 25443,
+            "username": "1ansP",
+            "password": "VIBGU87KPX"
+        },
+        {
+            "server": "http://145.239.25.170",
+            "port": 25461,
+            "username": "osama2",
+            "password": "76543"
         },
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "376872900",
-            "password": "journalsat"
-        },
-        {
-            "server": "http://iptv.journalsat.com",
-            "port": 25461,
-            "username": "850132781",
-            "password": "journalsat"
-        },
-        {
-            "server": "http://iptv.journalsat.com",
-            "port": 25461,
-            "username": "559165880",
+            "username": "585842495",
             "password": "journalsat"
         },
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "453706040",
+            "username": "963344652",
+            "password": "journalsat"
+        },
+        {
+            "server": "http://iptv.journalsat.com",
+            "port": 25461,
+            "username": "501300673",
+            "password": "journalsat"
+        },
+        {
+            "server": "http://iptv.journalsat.com",
+            "port": 25461,
+            "username": "195746303",
             "password": "journalsat"
         }
     ]
