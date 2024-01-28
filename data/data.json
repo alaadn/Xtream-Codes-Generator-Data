@@ -3,20 +3,20 @@
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "950514104",
+            "username": "114287290",
             "password": "journalsat"
         },
        {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "301639296",
+            "username": "468939814",
             "password": "journalsat"
         },
         {
-            "server": "http://legendjordan.net",
+            "server": "http://line.porschetv.net",
             "port": 80,
-            "username": "abubakr12345",
-            "password": "112233"
+            "username": "912353218",
+            "password": "ZBNYHQVV1Z"
         },
         {
             "server": "http://beno4k.live",
@@ -25,33 +25,33 @@
             "password": "23434485067869"
         },
         {
-            "server": "http://145.239.25.170",
+            "server": "http://ott4k.me",
+            "port": 80,
+            "username": "d557d7eaccf5",
+            "password": "efcebd8a255f"
+        },
+        {
+            "server": "http://nooritv.live",
             "port": 25461,
-            "username": "osama2",
-            "password": "76543"
+            "username": "EXCHANGEukmed",
+            "password": "QHZ5pjF7UdKx"
         },
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "194024920",
+            "username": "519029534",
             "password": "journalsat"
         },
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "395496803",
+            "username": "515843073",
             "password": "journalsat"
         },
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "182871569",
-            "password": "journalsat"
-        },
-        {
-            "server": "http://iptv.journalsat.com",
-            "port": 25461,
-            "username": "411404874",
+            "username": "508963779",
             "password": "journalsat"
         }
     ]
