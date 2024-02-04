@@ -3,26 +3,26 @@
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "530645148",
+            "username": "507198394",
             "password": "journalsat"
         },
        {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "518036664",
+            "username": "648351577",
             "password": "journalsat"
         },
         {
-            "server": "http://dikolive.xyz",
-            "port": 8080,
-            "username": "314183739",
-            "password": "dikoiptv"
+            "server": "http://103.145.13.48",
+            "port": 80,
+            "username": "mag00:1A:79:4A:97:83",
+            "password": "Ev2U1A1j4h"
         },
         {
-            "server": "http://ugeen.live",
-            "port": 8080,
-            "username": "Ugeen_xS7nFR",
-            "password": "JDhmWi"
+            "server": "http://s23tv.co",
+            "port": 80,
+            "username": "eyasnet_483167",
+            "password": "ogARFS7C"
         },
         {
             "server": "http://goiptv.tv",
@@ -39,19 +39,19 @@
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "872505555",
+            "username": "109640173",
             "password": "journalsat"
         },
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "488559877",
+            "username": "888257442",
             "password": "journalsat"
         },
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "789875064",
+            "username": "776161317",
             "password": "journalsat"
         }
     ]
