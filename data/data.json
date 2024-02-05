@@ -3,32 +3,32 @@
         {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "507198394",
+            "username": "150950961",
             "password": "journalsat"
         },
        {
             "server": "http://iptv.journalsat.com",
             "port": 25461,
-            "username": "648351577",
+            "username": "455170954",
             "password": "journalsat"
         },
         {
-            "server": "http://103.145.13.48",
-            "port": 80,
-            "username": "mag00:1A:79:4A:97:83",
-            "password": "Ev2U1A1j4h"
-        },
-        {
-            "server": "http://s23tv.co",
-            "port": 80,
-            "username": "eyasnet_483167",
-            "password": "ogARFS7C"
-        },
-        {
-            "server": "http://goiptv.tv",
+            "server": "http://zaintv.xyz",
             "port": 8080,
-            "username": "uRwxss",
-            "password": "enNVRvJJ48"
+            "username": "363605458663096",
+            "password": "05458663096"
+        },
+        {
+            "server": "http://zaintv.xyz",
+            "port": 8080,
+            "username": "937483939",
+            "password": "63839393"
+        },
+        {
+            "server": "http://obsfullhd.tv",
+            "port": 25461,
+            "username": "mazdak10",
+            "password": "HpjgFH9qrv8N"
         },
         {
             "server": "http://sansat.net",
