@@ -1,10 +1,10 @@
 {
     "data": [
         {
-            "server": "http://iptv.journalsat.com",
-            "port": 25461,
-            "username": "325533198",
-            "password": "journalsat"
+            "server": "http://zyniptv.com",
+            "port": 8080,
+            "username": "osnew.freesrv",
+            "password": "FVeDmRNQ3dta"
         },
        {
             "server": "http://iptv.journalsat.com",
@@ -19,22 +19,22 @@
             "password": "journalsat"
         },
         {
-            "server": "http://xtream-ie.com",
-            "port": 80,
-            "username": "mo3adv60B",
-            "password": "mo3adv60B"
+            "server": "http://live.maxcimo.com",
+            "port": 8000,
+            "username": "52hj8256gh26gfh",
+            "password": "10653?token"
         },
         {
-            "server": "http://dikolive.xyz",
-            "port": 8080,
-            "username": "674935858",
-            "password": "dikoiptv"
+            "server": "http://live.maxcimo.com",
+            "port": 8000,
+            "username": "badeiza2310",
+            "password": "badeiza231072"
         },
         {
-            "server": "http://ugeen.live",
-            "port": 8080,
-            "username": "Ugeen_uS1pmb",
-            "password": "c2hJe0"
+            "server": "http://live.maxcimo.com",
+            "port": 8000,
+            "username": "nadirtaxi",
+            "password": "691000692000"
         },
         {
             "server": "http://iptv.journalsat.com",
