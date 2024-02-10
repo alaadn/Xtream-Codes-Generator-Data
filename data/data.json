@@ -7,16 +7,16 @@
             "password": "FVeDmRNQ3dta"
         },
        {
-            "server": "http://iptv.journalsat.com",
-            "port": 25461,
-            "username": "997418404",
-            "password": "journalsat"
+            "server": "http://ottsansat",
+            "port": 88,
+            "username": "02048081503032",
+            "password": "02048081503032"
         },
         {
-            "server": "http://iptv.journalsat.com",
-            "port": 25461,
-            "username": "722327207",
-            "password": "journalsat"
+            "server": "http://dikolive.xyz",
+            "port": 8080,
+            "username": "677030770",
+            "password": "dikoiptv"
         },
         {
             "server": "http://live.maxcimo.com",
