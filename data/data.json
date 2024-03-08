@@ -1,28 +1,28 @@
 {
     "data": [
         {
-            "server": "http://ghostiptv.vip",
+            "server": "http://sansat.net",
+            "port": 88,
+            "username": "XGNKYDQVVZRQVCL",
+            "password": "OT0MEQHHV79CRA7"
+        },
+        {
+            "server": "http://bg.bleutv.net",
             "port": 80,
-            "username": "qmax10723",
-            "password": "01280592438"
+            "username": "393834229144",
+            "password": "393834229144"
         },
         {
-            "server": "http://xtream-ie.com",
+            "server": "http://bg.bleutv.net",
             "port": 80,
-            "username": "mo3ad12A",
-            "password": "mo3ad12A"
+            "username": "392342892048",
+            "password": "013406949089"
         },
         {
-            "server": "http://vip.dom1tv.com",
-            "port": 25443,
-            "username": "V17tiyjiVg9Nj",
-            "password": "6CnVpsCgKt"
-        },
-        {
-            "server": "http://vip.dom1tv.com",
-            "port": 25443,
-            "username": "240626389117",
-            "password": "18475410176421b59aec453"
+            "server": "http://bg.bleutv.net",
+            "port": 80,
+            "username": "392650366491",
+            "password": "392650366491"
         },
         {
             "server": "http://echootv.com",
