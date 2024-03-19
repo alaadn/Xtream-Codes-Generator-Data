@@ -2,9 +2,15 @@
     "data": [
         {
             "server": "http://d4k4u.com",
+            "port": 8080,
+            "username": "netsports",
+            "password": "As9AgWr4QE9e"
+        },
+        {
+            "server": "http://xtream-ie.com",
             "port": 80,
-            "username": "nk90f48jo0",
-            "password": "ixenki8ssa"
+            "username": "mo3adh11M",
+            "password": "mo3adh11M"
         },
         {
             "server": "http://xtream-ie.com",
@@ -13,22 +19,16 @@
             "password": "mo3add50A"
         },
         {
-            "server": "http://dlta4k.com",
+            "server": "http://xtream-ie.com",
             "port": 80,
-            "username": "445566",
-            "password": "009988"
+            "username": "mo3ad57B",
+            "password": "mo3ad57B"
         },
         {
-            "server": "http://nettv.icu",
+            "server": "http://xtream-ie.com",
             "port": 80,
-            "username": "hatim28052023",
-            "password": "lsdqwv7e9q"
-        },
-        {
-            "server": "http://goldiptvofficiel.tv",
-            "port": 25461,
-            "username": "pasquoil.b",
-            "password": "XY7jqZHEAR5g"
+            "username": "mo3ad82H",
+            "password": "mo3ad82H"
         },
         {
             "server": "http://goldiptvofficiel.tv",
