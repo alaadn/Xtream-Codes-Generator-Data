@@ -7,10 +7,10 @@
             "password": "1234567890"
         },
         {
-            "server": "http://tv.pro-ott.com",
-            "port": 25443,
-            "username": "V7V7fF1QEgX1",
-            "password": "Vn22dNpccb"
+            "server": "http://live.lynxiptv.xyz",
+            "port": 80,
+            "username": "596259521662",
+            "password": "64217f1c67652"
         },
         {
             "server": "http://tv.pro-ott.com",
@@ -45,14 +45,14 @@
         {
             "server": "http://freeiptvgen.com",
             "port": 25461,
-            "username": "677434153",
+            "username": "663056632",
             "password": "freeiptvgen"
         },
         {
             "server": "http://xtream-ie.com",
             "port": 80,
-            "username": "mo3adh11M",
-            "password": "mo3adh11M"
+            "username": "FaGZTooGWER",
+            "password": "X9TravhPfw"
         }
     ]
 }
