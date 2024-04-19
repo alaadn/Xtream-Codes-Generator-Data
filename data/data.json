@@ -1,28 +1,28 @@
 {
     "data": [
         {
-            "server": "http://ugeen.live:8080",
-            "port": 8080,
-            "username": "Ugeen_SSAyYj",
-            "password": "1EmMxM"
-        },
-        {
-            "server": "http://4ksuper.live",
-            "port": 80,
-            "username": "bcd4eb",
-            "password": "d95e27e"
-        },
-        {
             "server": "http://149.202.64.39",
             "port": 8080,
             "username": "134512857068",
             "password": "1272786244649b5b1eec470"
         },
         {
-            "server": "http://tv.viptvpro.com",
-            "port": 25443,
-            "username": "HAJG6",
-            "password": "k7bKPqg05y"
+            "server": "http://149.202.64.39",
+            "port": 8080,
+            "username": "201061380181",
+            "password": "1862813235650b17fe6ea78"
+        },
+        {
+            "server": "http://live.maxcimo.com",
+            "port": 8000,
+            "username": "134512857068",
+            "password": "1272786244649b5b1eec470"
+        },
+        {
+            "server": "http://live.maxcimo.com",
+            "port": 8000,
+            "username": "chaptal123",
+            "password": "230012001"
         },
         {
             "server": "http://tv.pro-ott.com",
