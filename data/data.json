@@ -1,46 +1,46 @@
 {
     "data": [
         {
-            "server": "http://149.202.64.39",
+            "server": "http://2hubs.ddns.net",
+            "port": 25461,
+            "username": "Faucon1tvMT",
+            "password": "g8pHKUYxwDhx"
+        },
+        {
+            "server": "http://hd.ottiptv.us",
             "port": 8080,
-            "username": "134512857068",
-            "password": "1272786244649b5b1eec470"
+            "username": "32230454235394",
+            "password": "32230454235394"
         },
         {
-            "server": "http://149.202.64.39",
+            "server": "http://hd.ottiptv.us",
             "port": 8080,
-            "username": "201061380181",
-            "password": "1862813235650b17fe6ea78"
+            "username": "32097197561662",
+            "password": "32097197561662"
         },
         {
-            "server": "http://live.maxcimo.com",
-            "port": 8000,
-            "username": "134512857068",
-            "password": "1272786244649b5b1eec470"
+            "server": "http://hd.ottiptv.us",
+            "port": 8080,
+            "username": "44316590734167",
+            "password": "44316590734167"
         },
         {
-            "server": "http://live.maxcimo.com",
-            "port": 8000,
-            "username": "chaptal123",
-            "password": "230012001"
+            "server": "http://hd.ottiptv.us",
+            "port": 8080,
+            "username": "32436071534444",
+            "password": "32436071534444"
         },
         {
-            "server": "http://tv.pro-ott.com",
+            "server": "http://vip.fr3tv.com",
             "port": 25443,
-            "username": "Berthoux05",
-            "password": "Krimmeri67"
+            "username": "ChristianGubiani",
+            "password": "48Q9T9DE5Z"
         },
         {
-            "server": "http://tv.pro-ott.com",
+            "server": "http://vip.fr3tv.com",
             "port": 25443,
-            "username": "1892",
-            "password": "1234567890"
-        },
-        {
-            "server": "http://4k.good-tv.de",
-            "port": 8080,
-            "username": "ugur5678@-FRzUNZ",
-            "password": "cYwFh5jJRhhPhRCqCW"
+            "username": "SamirR1",
+            "password": "4525931686"
         },
         {
             "server": "http://freeiptvgen.com",
