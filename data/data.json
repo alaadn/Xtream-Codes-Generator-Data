@@ -21,7 +21,7 @@
         {
             "server": "http://freeiptvgen.com",
             "port": 25461,
-            "username": "477133620",
+            "username": "654978142",
             "password": "freeiptvgen"
         },
         {
@@ -31,10 +31,10 @@
             "password": "2b3e81d8"
         },
         {
-            "server": "http://myteve.online",
-            "port": 8080,
-            "username": "Turkei",
-            "password": "0a77efb9"
+            "server": "http://tv.nova-iptv.com",
+            "port": 80,
+            "username": "p6loBz9AU2",
+            "password": "FaQScJ3rhq"
         },
         {
             "server": "http://vip.fr3tv.com",
@@ -43,16 +43,16 @@
             "password": "W0MH70XP7M"
         },
         {
-            "server": "http://opplex.tv",
+            "server": "http://sonyiptv.net",
             "port": 8080,
-            "username": "839447027097",
-            "password": "2272200"
+            "username": "test99900",
+            "password": "12345"
         },
         {
-            "server": "http://opplex.tv",
-            "port": 8080,
-            "username": "nw4321",
-            "password": "321"
+            "server": "http://tv.nova-iptv.com",
+            "port": 80,
+            "username": "gAqeMZ2U9E",
+            "password": "r9hhLgIf7i"
         }
     ]
 }
