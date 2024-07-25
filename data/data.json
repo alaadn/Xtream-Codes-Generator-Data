@@ -13,10 +13,10 @@
             "password": "WSn36YyMp3"
         },
         {
-            "server": "http://live.albiptv.ch",
-            "port": 7798,
-            "username": "Imri/Osmani",
-            "password": "gy4OeB0x0u"
+            "server": "http://sf.bleutv.net",
+            "port": 8080,
+            "username": "053859071962",
+            "password": "387726666702"
         },
         {
             "server": "http://freeiptvgen.com",
@@ -25,34 +25,34 @@
             "password": "freeiptvgen"
         },
         {
-            "server": "http://sawah.v2bpro.com",
-            "port": 80,
-            "username": "Mazra3ani",
-            "password": "20101980mz"
+            "server": "http://sansat.net",
+            "port": 25461,
+            "username": "02021762461108",
+            "password": "48xtJoQhvliSYEm"
         },
         {
-            "server": "http://ua-iptv.com",
+            "server": "http://sansat.net",
+            "port": 25461,
+            "username": "02025941820515",
+            "password": "DDIPNwRlNReCkOZ"
+        },
+        {
+            "server": "http://sansat.net",
+            "port": 25461,
+            "username": "IY0XZIBVCY",
+            "password": "PUEDJFHN3S"
+        },
+        {
+            "server": "http://sf.bleutv.net",
             "port": 8080,
-            "username": "emmanuelepie",
-            "password": "13598371"
+            "username": "070585955407",
+            "password": "034386510964"
         },
         {
-            "server": "http://nadornet.com",
-            "port": 8000,
-            "username": "Daronachraf",
-            "password": "zutws4xrzv"
-        },
-        {
-            "server": "http://bazaruto.top",
-            "port": 8000,
-            "username": "Crnkovic2",
-            "password": "wx56oB48ok"
-        },
-        {
-            "server": "http://tv.nova-iptv.com",
-            "port": 80,
-            "username": "gAqeMZ2U9E",
-            "password": "r9hhLgIf7i"
+            "server": "http://sansat.net",
+            "port": 25461,
+            "username": "02028278639547",
+            "password": "2DXBH4EZZDEEBPB"
         }
     ]
 }
