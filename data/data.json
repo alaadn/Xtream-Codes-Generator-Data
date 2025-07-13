@@ -53,6 +53,12 @@
             "port": 80,
             "username": "TODAY20",
             "password": "TODAY20"
+        }, 
+         {
+            "server": "http://cyberfamily.sytes.net",
+            "port": 80,
+            "username": "test",
+            "password": "test"
         }
     ]
 }
