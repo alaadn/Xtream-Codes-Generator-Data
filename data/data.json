@@ -2,7 +2,7 @@
     "data": [
         {
             "server": "http://gold.dreamerjs.info/",
-            "port": 00000,
+            "port": 0,
             "username": "gold776488",
             "password": "iptvtest24"
         },
