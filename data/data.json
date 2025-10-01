@@ -1,10 +1,10 @@
 {
     "data": [
         {
-            "server": "http://173.249.36.238",
-            "port": 25461,
-            "username": "893586383",
-            "password": "freeiptvgen"
+            "server": "http://gold.dreamerjs.info/",
+            "port": noport,
+            "username": "gold776488",
+            "password": "iptvtest24"
         },
         {
             "server": "http://173.249.36.238",
@@ -14,13 +14,13 @@
         },
         {
             "server": "http://173.249.36.238",
-            "port": 25461,
+            "port": no,
             "username": "786879807",
             "password": "freeiptvgen"
         },
         {
             "server": "http://173.249.36.238",
-            "port": 25461,
+            "port": no ,
             "username": "578469630",
             "password": "freeiptvgen"
         },
