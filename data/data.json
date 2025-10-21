@@ -1,64 +1,64 @@
 {
     "data": [
         {
-            "server": "http://tv.diablotv.net:8080/",
+            "server": "http://cistakosuza.petica.info:80/",
+            "port": 80,
+            "username": "wUGY86",
+            "password": "iD3JTE"
+        },
+        {
+            "server": "http://balkan-x.net:80/",
+            "port": 80,
+            "username": "Sada",
+            "password": "MirsoKuca"
+        },
+        {
+            "server": "http://balkan-x.net:80/",
+            "port": 80,
+            "username": "dalilaalic",
+            "password": "dXpf3ucWTJ"
+        },
+        {
+            "server": "http://balkan-x.net:80/",
+            "port": 80,
+            "username": "ZahtilaJakovljevic",
+            "password": "nNYqz3dRj7"
+        },
+        {
+            "server": "http://balkan-x.net:80/",
+            "port": 80,
+            "username": "Miroslavmratinkovicmajka",
+            "password": "4FTwBLtsCq"
+        },
+        {
+            "server": "http://sonymax.org:8080/",
             "port": 8080,
-            "username": "LuisT9181",
-            "password": "a77f38276177"
+           "username": "wNSvGOtvtx",
+            "password": "H7FLHWMLY3"
         },
         {
-            "server": "http://tv.diablotv.net:8080/",
+            "server": "http://sonymax.org:8080/",
             "port": 8080,
-            "username": "Richardtv847",
-            "password": "wjR2TtxYES"
+            "username": "wNSvGOtvtx",
+            "password": "H7FLHWMLY3"
         },
         {
-            "server": "http://tv.diablotv.net:8080/",
+            "server": "http://nocable.cc:8080/",
             "port": 8080,
-            "username": "barcelona489",
-            "password": "ca0262829814"
+            "username": "sm@synergyplangroup.ca",
+            "password": "I0RfrFOHo5"
         },
         {
-            "server": "http://tv.diablotv.net:8080/",
+            "server": "http://canal-pro.xyz:8080/",
             "port": 8080,
-            "username": "J0rg3gonz4l3z77",
-            "password": "CViRUP8fd4"
-        },
-        {
-            "server": "http://tv.diablotv.net:8080/",
-            "port": 8080,
-            "username": "pincayant1",
-            "password": "de996aad3e9c"
-        },
-        {
-            "server": "http://tv.diablotv.net:8080/",
-            "port": 8080,
-           "username": "23erick",
-            "password": "QJHTUEZqxJ"
-        },
-        {
-            "server": "http://tv.diablotv.net:8080/",
-            "port": 8080,
-            "username": "pincayant1",
-            "password": "de996aad3e9c"
-        },
-        {
-            "server": "http://pixelmax.link:8085/",
-            "port": 8085,
-            "username": "jflores",
-            "password": "RXxwxjAatU"
-        },
-        {
-            "server": "http://pixelmax.link:8085/",
-            "port": 8085,
-            "username": "QuRmVjCP4ef4",
-            "password": "caS6CStvjnxg"
+            "username": "979188278tv",
+            "password": "ty2eo9"
         }, 
          {
-            "server": "http://pixelmax.link:8085/",
+            "server": "http://canal-pro.xyz:8080/",
             "port": 8085,
-            "username": "QuRmVjCP4ef4",
-            "password": "caS6CStvjnxg"
+            "username": "964266642tv",
+            "password": "a47y2d"
         }
     ]
 }
