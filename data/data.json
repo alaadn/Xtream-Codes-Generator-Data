@@ -1,41 +1,41 @@
 {
     "data": [
         {    
-        "server": "http://ns1.titv.club:8080/",
+        "server": "http://portal-iptv.net:8080/",
             "port": 8080,
-            "username": "Tampa3",
-            "password": "Tampa3tv"
+            "username": "063940072475",
+            "password": "063940072475"
         },
         {
-            "server": "http://ns1.titv.club:8080/",
+            "server": "http://portal-iptv.net:8080/",
             "port": 8080,
-            "username": "672321",
-            "password": "492552"
+            "username": "882322200188",
+            "password": "882322200188"
         },
         {
-            "server": "http://ns1.titv.club:8080/",
+            "server": "http://portal-iptv.net:8080/",
             "port": 8080,
-            "username": "DLankford23",
-            "password": "6199330159"
+            "username": "064469357070",
+            "password": "064469357070"
         },
         {
-            "server": "http://ns1.titv.club:8080/",
+            "server": "http://portal-iptv.net:8080/",
             "port": 8080,
-            "username": "686601",
-            "password": "961436"
+            "username": "905184956745",
+            "password": "905184956745"
     
         },
         {
-            "server":"http://ns1.titv.club:8080/",
+            "server":"http://portal-iptv.net:8080/",
             "port": 8080,
-            "username": "793110",
-            "password": "105955"
+            "username": "077998950140",
+            "password": "077998950140"
         },
         {
-            "server": "http://013tv.com:8080/",
+            "server": "http://portal-iptv.net:8080/",
             "port": 8080,
-           "username": "F30822",
-            "password": "4a947b1f"
+           "username": "017502147032",
+            "password": "017502147032"
         },
         {
             "server": "http://live.zapping.life:8080/",
