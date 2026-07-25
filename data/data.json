@@ -1,65 +1,65 @@
 {
     "data": [
         {    
-            "server": "http://tv.123tv.to:8080/",
+            "server": "http://fastopen.live:8080/",
+            "port": 8080,
+            "username": "LLXnCrjcKW",
+            "password": "wcbmH1s5qB"
+        },
+        {
+            "server": "http://fastopen.live:8080/",
             "port": 8080,
             "username": "dsNGBCtE9d",
             "password": "xfTDr5KXaL"
         },
         {
-            "server": "http://tv.123tv.to:8080/",
+            "server": "http://nicolaj.123tv.to:8080/",
+            "port": 8080,
+            "username": "GregWoi",
+            "password": "6zb7jrUQNK"
+        },
+        { 
+            "server": "http://nicolaj.123tv.to:8080/",
             "port": 8080,
             "username": "yvSZuHjGRN",
             "password": "ys94jaTGkK"
-        },
-        {
-            "server": "http://tv.123tv.to:8080/",
-            "port": 8080,
-            "username": "xTKVoDAmct",
-            "password": "VAIUPlgzZE"
-        },
-        { 
-            "server": "http://nocable.cc:8080/",
-            "port": 8080,
-            "username": "8J9tVR",
-            "password": "867545"
     
         },
         {
-            "server":"http://elpapanatas.space:8080/",
+            "server":"http://nicolaj.123tv.to:8080/",
             "port": 8080,
-            "username": "Felipe123",
-            "password": "Felipe123"
+            "username": "ArianTairi",
+            "password": "JexIujaTrf"
         },
         {
-            "server": "http://tv.123tv.to:8080/",
+            "server": "http://nicolaj.123tv.to:8080/",
             "port": 8080,
-           "username": "PVI7bELTYG",
-            "password": "8uxQvWtDCS"
+           "username": "xTKVoDAmct",
+            "password": "VAIUPlgzZE"
         },
         {
             "server": "http://cord-cutter.net:8080/",
             "port": 8080,
-            "username": "gambleshawn@yahoo.com",
-            "password": "gambleshawn@2023"
+            "username": "farb1@att.net",
+            "password": "UdUJk7EZcR"
         },
         {
-            "server": "http://81.31.194.66:8080/",
+            "server": "http://cord-cutter.net:8080/",
             "port": 8080,
-            "username": "pro6451768147028",
-            "password": "c9d29c3d775d"
+            "username": "fenesse01@yahoo.com",
+            "password": "hREE85bquW"
         },
         {
-            "server": "http://31.43.191.125:8080/",
+            "server": "http://tv14s.xyz:8080/",
             "port": 8080,
-            "username": "VIP014671728914046110",
-            "password": "4e83bf28472f"
+            "username": "rossjohn88@hotmail.com",
+            "password": "KCBKTCnWTU"
         }, 
          {
-            "server": "http://31.43.191.125:8080/",
+            "server": "http://cord-cutter.net:8080/",
             "port": 8080,
-            "username": "VIP015071740761580356",
-            "password": "3d2f35321daf"
+            "username": "Fkacq2",
+            "password": "296319"
         }
     ]
 }
