@@ -1,65 +1,65 @@
 {
     "data": [
         {    
-            "server": "http://sonymax.org:8080/",
+            "server": "http://fastrunner.live:8080/",
             "port": 8080,
-            "username": "jamosvigerfar",
-            "password": "2zs9OMkWEb"
+            "username": "Wolfgang",
+            "password": "5he6ERunyN"
         },
         {
-            "server": "http://sonymax.org:8080/",
+            "server": "http://fastrunner.live:8080/",
             "port": 8080,
-            "username": "karanhuseyin",
-            "password": "jE56DItgSb"
+            "username": "PVI7bELTYG",
+            "password": "8uxQvWtDCS"
         },
         {
-            "server": "http://103trkm25.xyz:8080/",
+            "server": "http://fastrunner.live:8080/",
             "port": 8080,
-            "username": "fehmi35gdk",
-            "password": "gedik35fmhi"
+            "username": "ArianTairi",
+            "password": "JexIujaTrf"
         },
         { 
-            "server": " http://103trkm25.xyz:8080/",
+            "server": " http://fastrunner.live:8080/",
             "port": 8080,
-            "username": "tarcan@kaya",
-            "password": "07dg10sc24"
+            "username": "8Um1e7qjJo",
+            "password": "jyAz2eYPuk"
     
         },
         {
-            "server":"http://103trkm25.xyz:8080/",
+            "server":"http://fastrunner.live:8080/",
             "port": 8080,
-            "username": "Rustemtunctasli",
-            "password": "FhDeR2aZx5"
+            "username": "Dudki",
+            "password": "LpIydRsQnx"
         },
         {
-            "server": " http://103trkm25.xyz:8080/",
+            "server": " http://fastrunner.live:8080/",
             "port": 8080,
-           "username": "can35cn",
-            "password": "cankmsucan"
+           "username": "joao23",
+            "password": "joao23"
+        },
+        {
+            "server": " http://fastrunner.live:8080/",
+            "port": 8080,
+            "username": "RHSzKXi6qe",
+            "password": " AYfaixXUN9"
         },
         {
             "server": " http://skytv4k.org:8080/",
             "port": 8080,
-            "username": "8Um1e7qjJo",
-            "password": " jyAz2eYPuk"
+            "username": " ArianTairi",
+            "password": "JexIujaTrf"
         },
         {
-            "server": " http://103trkm25.xyz:8080/",
+            "server": " http://skytv4k.org:8080/",
             "port": 8080,
-            "username": " can35berg",
-            "password": "berg3535cn"
-        },
-        {
-            "server": " http://kulis2026.xyz:8080/",
-            "port": 8080,
-            "username": "rfk35mutlu",
-            "password": "mutlu35rfk"
+            "username": "L197mklJTX",
+            "password": "85Zv6a2EWL"
         }, 
          {
-            "server": "http://kulis2026.xyz:8080/",
+            "server": "http://skytv4k.org:8080/",
             "port": 8080,
-            "username": "can35cn",
-            "password": "cankmsucan"
+            "username": "GregWoi",
+            "password": "6zb7jrUQNK"
         }
     ]
 }
